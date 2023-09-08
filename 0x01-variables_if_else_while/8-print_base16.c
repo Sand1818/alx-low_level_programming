@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints numbers & letters 
- * numbers etween 0-9, with letters a to f
+ * main - prints numbers 0-9 & letters a-f
  *
  * Return: Always 0 (Success)
  */
