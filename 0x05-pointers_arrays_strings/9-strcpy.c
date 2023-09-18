@@ -2,9 +2,9 @@
 
 /**
  * _strcpy - copies the string pointed to by src
- * @dest: copy to 
- * @src: copied from string
- * return: 0
+ * @dest: copying to
+ * @src: where copying from
+ * Return: 0
  */
 
 char *_strcpy(char *dest, char *src)
