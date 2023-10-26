@@ -5,7 +5,7 @@
  * at a fiven index
  * @n: num pointer
  * @index: index
- * Return 1 (success), -1 (error)
+ * Return: 1 (success), -1 (error)
  */
 
 int clear_bit(unsigned long int *n, unsigned int index)
